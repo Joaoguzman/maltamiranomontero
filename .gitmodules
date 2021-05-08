@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/maltamiranomontero/maltamiranomontero.github.io
+	branch = master
